@@ -1,12 +1,11 @@
-import TravelPlan from "./component/TravelPlan"
+import TravelPlan from "./component/TravelPlan";
 
 function App() {
-
   return (
     <>
       <TravelPlan />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
